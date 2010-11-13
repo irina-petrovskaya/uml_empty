@@ -11,4 +11,12 @@ import com.sun.xml.internal.fastinfoset.util.StringArray;
  */
 public class AAA {
     private StringArray arr;
+
+    public StringArray getArr() {
+        return arr;
+    }
+
+    public void setArr(StringArray arr) {
+        this.arr = arr;
+    }
 }
