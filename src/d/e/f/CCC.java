@@ -1,7 +1,3 @@
-/*
- * Copyright IrsCo (c) 2010.
- */
-
 package d.e.f;
 
 /**
