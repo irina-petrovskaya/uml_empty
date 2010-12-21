@@ -1,6 +1,6 @@
 line1
 line2
-null
+nbbull
 java.lang.NullPointerException
 	at com.intellij.uml.Utils.getNodeName(Utils.java:214)
 	at com.intellij.uml.core.actions.UmlViewStructure$3.getListCellRendererComponent(UmlViewStructure.java:114)
