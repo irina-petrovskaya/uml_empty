@@ -75,9 +75,6 @@
       <element module="All" copyright="prof2" />
     </module2copyright>
   </component>
-  <component name="Cvs2Configuration">
-    <option name="SHOW_OUTPUT" value="true" />
-  </component>
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
