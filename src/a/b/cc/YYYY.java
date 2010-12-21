@@ -11,4 +11,5 @@ import javax.swing.*;
  */
 public class YYYY {
     private JTextPane textPane1;
+    private JTable table1;
 }
