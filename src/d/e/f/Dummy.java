@@ -3,16 +3,14 @@
  */
 package d.e.f;
 
-import java.util.Iterator;
-
 /**
  * by Irina.Petrovskaya, on 15.11.10, 17:07
  */
 public abstract class Dummy {
     /**
-     *  some dummy comment
+     * some dummy comment
      **/
-    public static String boo(){
-                  return "boo";
+    public static String boo() {
+        return "boo";
     }
 }
