@@ -13,4 +13,7 @@ public abstract class Dummy {
     public static String boo() {
         return "boo";
     }
+    public static void bar(){
+
+    }
 }
