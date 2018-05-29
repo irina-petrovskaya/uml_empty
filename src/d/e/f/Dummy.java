@@ -14,6 +14,6 @@ public abstract class Dummy {
         return "boo";
     }
     public static void bar(){
-
+        System.out.println("bar");
     }
 }
