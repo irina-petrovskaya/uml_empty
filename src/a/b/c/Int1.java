@@ -6,5 +6,5 @@ package a.b.c;
 public interface Int1 {
     void method1(int j);
 
-    String method2()   ;//
+    String method2();// fffff
 }
