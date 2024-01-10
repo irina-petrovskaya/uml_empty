@@ -5,10 +5,11 @@
 package a.b.c;
 
 
-
 /**
  * by Irina.Petrovskaya, on 09.11.10, 13:23
  */
 public class AAA {
-  //fffffffdgffffffffsdfdsfdsfsdfsdff
+    public AAA() {
+    }
+    //fffffffdgffffffffsdfdsfdsfsdfsdff
 }
